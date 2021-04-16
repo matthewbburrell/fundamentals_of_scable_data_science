@@ -1,1 +1,0 @@
-# fundamentals_of_scable_data_science
